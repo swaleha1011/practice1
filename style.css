@@ -1,0 +1,45 @@
+img{
+    float: right;
+}
+p{
+   font-size: 20px;
+  
+}
+.joinBtn {
+  width: 10em;
+  height: 5ex;
+  background-color: gold;
+  border: 2px solid firebrick;
+  border-radius: 10px;
+  font-weight: bold;
+  color: black;
+  cursor: pointer;
+}
+
+.joinBtn:hover {
+  background-color: bisque;
+}
+#Subcribe {
+  width: 10em;
+  height: 5ex;
+  background-image: linear-gradient(135deg, #16b839 40%, #fc894d);
+  border: 2px rgb(46, 52, 139);
+  border-radius: 10px;
+  font-weight: bold;
+  color: rgb(151, 8, 8);
+  cursor: pointer;
+}
+
+#Subcribe:hover {
+    box-shadow: rgb(252, 139, 139);
+
+}
+
+input:focus {
+    background-color: rgb(198, 174, 221);
+
+}
+
+select:focus{
+    background-color: aliceblue;
+}
