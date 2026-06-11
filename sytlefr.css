@@ -9,6 +9,7 @@ body {
   align-items: center;
   background: #351b04;
   padding: 15px 40px;
+  margin: -8px;
 }
 
 h1 {
@@ -47,6 +48,7 @@ h1 {
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
+  margin: -8px;
 }
 
 .hero-text {
